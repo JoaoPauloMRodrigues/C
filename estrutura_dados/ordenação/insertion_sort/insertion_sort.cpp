@@ -12,7 +12,7 @@ void insertion_sort(int vetor[TAM]){
     int j;
     int i;
 
-    //o valor da posição 0 ja esta ordenado pq n há ngm meeor que ele a esquerda
+    //o valor da posição 0 ja esta ordenado pq n há ngm mneor que ele a esquerda
     //por isso começamos em 1
 
 
